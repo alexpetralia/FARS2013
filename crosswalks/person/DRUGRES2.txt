@@ -1,0 +1,875 @@
+0	Not Tested for Drugs
+1	No Drugs Reported/Negative
+95	Not Reported
+100	Narcotic
+101	Narcotic
+102	Narcotic
+103	Narcotic
+104	Narcotic
+105	Narcotic
+106	Narcotic
+107	Narcotic
+108	Narcotic
+109	Narcotic
+110	Narcotic
+111	Narcotic
+112	Narcotic
+113	Narcotic
+114	Narcotic
+115	Narcotic
+116	Narcotic
+117	Narcotic
+118	Narcotic
+119	Narcotic
+120	Narcotic
+121	Narcotic
+122	Narcotic
+123	Narcotic
+124	Narcotic
+125	Narcotic
+126	Narcotic
+127	Narcotic
+128	Narcotic
+129	Narcotic
+130	Narcotic
+131	Narcotic
+132	Narcotic
+133	Narcotic
+134	Narcotic
+135	Narcotic
+136	Narcotic
+137	Narcotic
+138	Narcotic
+139	Narcotic
+140	Narcotic
+141	Narcotic
+142	Narcotic
+143	Narcotic
+144	Narcotic
+145	Narcotic
+146	Narcotic
+147	Narcotic
+148	Narcotic
+149	Narcotic
+150	Narcotic
+151	Narcotic
+152	Narcotic
+153	Narcotic
+154	Narcotic
+155	Narcotic
+156	Narcotic
+157	Narcotic
+158	Narcotic
+159	Narcotic
+160	Narcotic
+161	Narcotic
+162	Narcotic
+163	Narcotic
+164	Narcotic
+165	Narcotic
+166	Narcotic
+167	Narcotic
+168	Narcotic
+169	Narcotic
+170	Narcotic
+171	Narcotic
+172	Narcotic
+173	Narcotic
+174	Narcotic
+175	Narcotic
+176	Narcotic
+177	Narcotic
+178	Narcotic
+179	Narcotic
+180	Narcotic
+181	Narcotic
+182	Narcotic
+183	Narcotic
+184	Narcotic
+185	Narcotic
+186	Narcotic
+187	Narcotic
+188	Narcotic
+189	Narcotic
+190	Narcotic
+191	Narcotic
+192	Narcotic
+193	Narcotic
+194	Narcotic
+195	Narcotic
+196	Narcotic
+197	Narcotic
+198	Narcotic
+199	Narcotic
+200	Narcotic
+201	Narcotic
+202	Narcotic
+203	Narcotic
+204	Narcotic
+205	Narcotic
+206	Narcotic
+207	Narcotic
+208	Narcotic
+209	Narcotic
+210	Narcotic
+211	Narcotic
+212	Narcotic
+213	Narcotic
+214	Narcotic
+215	Narcotic
+216	Narcotic
+217	Narcotic
+218	Narcotic
+219	Narcotic
+220	Narcotic
+221	Narcotic
+222	Narcotic
+223	Narcotic
+224	Narcotic
+225	Narcotic
+226	Narcotic
+227	Narcotic
+228	Narcotic
+229	Narcotic
+230	Narcotic
+231	Narcotic
+232	Narcotic
+233	Narcotic
+234	Narcotic
+235	Narcotic
+236	Narcotic
+237	Narcotic
+238	Narcotic
+239	Narcotic
+240	Narcotic
+241	Narcotic
+242	Narcotic
+243	Narcotic
+244	Narcotic
+245	Narcotic
+246	Narcotic
+247	Narcotic
+248	Narcotic
+249	Narcotic
+250	Narcotic
+251	Narcotic
+252	Narcotic
+253	Narcotic
+254	Narcotic
+255	Narcotic
+256	Narcotic
+257	Narcotic
+258	Narcotic
+259	Narcotic
+260	Narcotic
+261	Narcotic
+262	Narcotic
+263	Narcotic
+264	Narcotic
+265	Narcotic
+266	Narcotic
+267	Narcotic
+268	Narcotic
+269	Narcotic
+270	Narcotic
+271	Narcotic
+272	Narcotic
+273	Narcotic
+274	Narcotic
+275	Narcotic
+276	Narcotic
+277	Narcotic
+278	Narcotic
+279	Narcotic
+280	Narcotic
+281	Narcotic
+282	Narcotic
+283	Narcotic
+284	Narcotic
+285	Narcotic
+286	Narcotic
+287	Narcotic
+288	Narcotic
+289	Narcotic
+290	Narcotic
+291	Narcotic
+292	Narcotic
+293	Narcotic
+294	Narcotic
+295	Narcotic
+300	Depressant
+301	Depressant
+302	Depressant
+303	Depressant
+304	Depressant
+305	Depressant
+306	Depressant
+307	Depressant
+308	Depressant
+309	Depressant
+310	Depressant
+311	Depressant
+312	Depressant
+313	Depressant
+314	Depressant
+315	Depressant
+316	Depressant
+317	Depressant
+318	Depressant
+319	Depressant
+320	Depressant
+321	Depressant
+322	Depressant
+323	Depressant
+324	Depressant
+325	Depressant
+326	Depressant
+327	Depressant
+328	Depressant
+329	Depressant
+330	Depressant
+331	Depressant
+332	Depressant
+333	Depressant
+334	Depressant
+335	Depressant
+336	Depressant
+337	Depressant
+338	Depressant
+339	Depressant
+340	Depressant
+341	Depressant
+342	Depressant
+343	Depressant
+344	Depressant
+345	Depressant
+346	Depressant
+347	Depressant
+348	Depressant
+349	Depressant
+350	Depressant
+351	Depressant
+352	Depressant
+353	Depressant
+354	Depressant
+355	Depressant
+356	Depressant
+357	Depressant
+358	Depressant
+359	Depressant
+360	Depressant
+361	Depressant
+362	Depressant
+363	Depressant
+364	Depressant
+365	Depressant
+366	Depressant
+367	Depressant
+368	Depressant
+369	Depressant
+370	Depressant
+371	Depressant
+372	Depressant
+373	Depressant
+374	Depressant
+375	Depressant
+376	Depressant
+377	Depressant
+378	Depressant
+379	Depressant
+380	Depressant
+381	Depressant
+382	Depressant
+383	Depressant
+384	Depressant
+385	Depressant
+386	Depressant
+387	Depressant
+388	Depressant
+389	Depressant
+390	Depressant
+391	Depressant
+392	Depressant
+393	Depressant
+394	Depressant
+395	Depressant
+400	Stimulant
+401	Stimulant
+402	Stimulant
+403	Stimulant
+404	Stimulant
+405	Stimulant
+406	Stimulant
+407	Stimulant
+408	Stimulant
+409	Stimulant
+410	Stimulant
+411	Stimulant
+412	Stimulant
+413	Stimulant
+414	Stimulant
+415	Stimulant
+416	Stimulant
+417	Stimulant
+418	Stimulant
+419	Stimulant
+420	Stimulant
+421	Stimulant
+422	Stimulant
+423	Stimulant
+424	Stimulant
+425	Stimulant
+426	Stimulant
+427	Stimulant
+428	Stimulant
+429	Stimulant
+430	Stimulant
+431	Stimulant
+432	Stimulant
+433	Stimulant
+434	Stimulant
+435	Stimulant
+436	Stimulant
+437	Stimulant
+438	Stimulant
+439	Stimulant
+440	Stimulant
+441	Stimulant
+442	Stimulant
+443	Stimulant
+444	Stimulant
+445	Stimulant
+446	Stimulant
+447	Stimulant
+448	Stimulant
+449	Stimulant
+450	Stimulant
+451	Stimulant
+452	Stimulant
+453	Stimulant
+454	Stimulant
+455	Stimulant
+456	Stimulant
+457	Stimulant
+458	Stimulant
+459	Stimulant
+460	Stimulant
+461	Stimulant
+462	Stimulant
+463	Stimulant
+464	Stimulant
+465	Stimulant
+466	Stimulant
+467	Stimulant
+468	Stimulant
+469	Stimulant
+470	Stimulant
+471	Stimulant
+472	Stimulant
+473	Stimulant
+474	Stimulant
+475	Stimulant
+476	Stimulant
+477	Stimulant
+478	Stimulant
+479	Stimulant
+480	Stimulant
+481	Stimulant
+482	Stimulant
+483	Stimulant
+484	Stimulant
+485	Stimulant
+486	Stimulant
+487	Stimulant
+488	Stimulant
+489	Stimulant
+490	Stimulant
+491	Stimulant
+492	Stimulant
+493	Stimulant
+494	Stimulant
+495	Stimulant
+500	Hallucinogen
+501	Hallucinogen
+502	Hallucinogen
+503	Hallucinogen
+504	Hallucinogen
+505	Hallucinogen
+506	Hallucinogen
+507	Hallucinogen
+508	Hallucinogen
+509	Hallucinogen
+510	Hallucinogen
+511	Hallucinogen
+512	Hallucinogen
+513	Hallucinogen
+514	Hallucinogen
+515	Hallucinogen
+516	Hallucinogen
+517	Hallucinogen
+518	Hallucinogen
+519	Hallucinogen
+520	Hallucinogen
+521	Hallucinogen
+522	Hallucinogen
+523	Hallucinogen
+524	Hallucinogen
+525	Hallucinogen
+526	Hallucinogen
+527	Hallucinogen
+528	Hallucinogen
+529	Hallucinogen
+530	Hallucinogen
+531	Hallucinogen
+532	Hallucinogen
+533	Hallucinogen
+534	Hallucinogen
+535	Hallucinogen
+536	Hallucinogen
+537	Hallucinogen
+538	Hallucinogen
+539	Hallucinogen
+540	Hallucinogen
+541	Hallucinogen
+542	Hallucinogen
+543	Hallucinogen
+544	Hallucinogen
+545	Hallucinogen
+546	Hallucinogen
+547	Hallucinogen
+548	Hallucinogen
+549	Hallucinogen
+550	Hallucinogen
+551	Hallucinogen
+552	Hallucinogen
+553	Hallucinogen
+554	Hallucinogen
+555	Hallucinogen
+556	Hallucinogen
+557	Hallucinogen
+558	Hallucinogen
+559	Hallucinogen
+560	Hallucinogen
+561	Hallucinogen
+562	Hallucinogen
+563	Hallucinogen
+564	Hallucinogen
+565	Hallucinogen
+566	Hallucinogen
+567	Hallucinogen
+568	Hallucinogen
+569	Hallucinogen
+570	Hallucinogen
+571	Hallucinogen
+572	Hallucinogen
+573	Hallucinogen
+574	Hallucinogen
+575	Hallucinogen
+576	Hallucinogen
+577	Hallucinogen
+578	Hallucinogen
+579	Hallucinogen
+580	Hallucinogen
+581	Hallucinogen
+582	Hallucinogen
+583	Hallucinogen
+584	Hallucinogen
+585	Hallucinogen
+586	Hallucinogen
+587	Hallucinogen
+588	Hallucinogen
+589	Hallucinogen
+590	Hallucinogen
+591	Hallucinogen
+592	Hallucinogen
+593	Hallucinogen
+594	Hallucinogen
+595	Hallucinogen
+600	Cannabinoid
+601	Cannabinoid
+602	Cannabinoid
+603	Cannabinoid
+604	Cannabinoid
+605	Cannabinoid
+606	Cannabinoid
+607	Cannabinoid
+608	Cannabinoid
+609	Cannabinoid
+610	Cannabinoid
+611	Cannabinoid
+612	Cannabinoid
+613	Cannabinoid
+614	Cannabinoid
+615	Cannabinoid
+616	Cannabinoid
+617	Cannabinoid
+618	Cannabinoid
+619	Cannabinoid
+620	Cannabinoid
+621	Cannabinoid
+622	Cannabinoid
+623	Cannabinoid
+624	Cannabinoid
+625	Cannabinoid
+626	Cannabinoid
+627	Cannabinoid
+628	Cannabinoid
+629	Cannabinoid
+630	Cannabinoid
+631	Cannabinoid
+632	Cannabinoid
+633	Cannabinoid
+634	Cannabinoid
+635	Cannabinoid
+636	Cannabinoid
+637	Cannabinoid
+638	Cannabinoid
+639	Cannabinoid
+640	Cannabinoid
+641	Cannabinoid
+642	Cannabinoid
+643	Cannabinoid
+644	Cannabinoid
+645	Cannabinoid
+646	Cannabinoid
+647	Cannabinoid
+648	Cannabinoid
+649	Cannabinoid
+650	Cannabinoid
+651	Cannabinoid
+652	Cannabinoid
+653	Cannabinoid
+654	Cannabinoid
+655	Cannabinoid
+656	Cannabinoid
+657	Cannabinoid
+658	Cannabinoid
+659	Cannabinoid
+660	Cannabinoid
+661	Cannabinoid
+662	Cannabinoid
+663	Cannabinoid
+664	Cannabinoid
+665	Cannabinoid
+666	Cannabinoid
+667	Cannabinoid
+668	Cannabinoid
+669	Cannabinoid
+670	Cannabinoid
+671	Cannabinoid
+672	Cannabinoid
+673	Cannabinoid
+674	Cannabinoid
+675	Cannabinoid
+676	Cannabinoid
+677	Cannabinoid
+678	Cannabinoid
+679	Cannabinoid
+680	Cannabinoid
+681	Cannabinoid
+682	Cannabinoid
+683	Cannabinoid
+684	Cannabinoid
+685	Cannabinoid
+686	Cannabinoid
+687	Cannabinoid
+688	Cannabinoid
+689	Cannabinoid
+690	Cannabinoid
+691	Cannabinoid
+692	Cannabinoid
+693	Cannabinoid
+694	Cannabinoid
+695	Cannabinoid
+700	Phencyclidine (PCP)
+701	Phencyclidine (PCP)
+702	Phencyclidine (PCP)
+703	Phencyclidine (PCP)
+704	Phencyclidine (PCP)
+705	Phencyclidine (PCP)
+706	Phencyclidine (PCP)
+707	Phencyclidine (PCP)
+708	Phencyclidine (PCP)
+709	Phencyclidine (PCP)
+710	Phencyclidine (PCP)
+711	Phencyclidine (PCP)
+712	Phencyclidine (PCP)
+713	Phencyclidine (PCP)
+714	Phencyclidine (PCP)
+715	Phencyclidine (PCP)
+716	Phencyclidine (PCP)
+717	Phencyclidine (PCP)
+718	Phencyclidine (PCP)
+719	Phencyclidine (PCP)
+720	Phencyclidine (PCP)
+721	Phencyclidine (PCP)
+722	Phencyclidine (PCP)
+723	Phencyclidine (PCP)
+724	Phencyclidine (PCP)
+725	Phencyclidine (PCP)
+726	Phencyclidine (PCP)
+727	Phencyclidine (PCP)
+728	Phencyclidine (PCP)
+729	Phencyclidine (PCP)
+730	Phencyclidine (PCP)
+731	Phencyclidine (PCP)
+732	Phencyclidine (PCP)
+733	Phencyclidine (PCP)
+734	Phencyclidine (PCP)
+735	Phencyclidine (PCP)
+736	Phencyclidine (PCP)
+737	Phencyclidine (PCP)
+738	Phencyclidine (PCP)
+739	Phencyclidine (PCP)
+740	Phencyclidine (PCP)
+741	Phencyclidine (PCP)
+742	Phencyclidine (PCP)
+743	Phencyclidine (PCP)
+744	Phencyclidine (PCP)
+745	Phencyclidine (PCP)
+746	Phencyclidine (PCP)
+747	Phencyclidine (PCP)
+748	Phencyclidine (PCP)
+749	Phencyclidine (PCP)
+750	Phencyclidine (PCP)
+751	Phencyclidine (PCP)
+752	Phencyclidine (PCP)
+753	Phencyclidine (PCP)
+754	Phencyclidine (PCP)
+755	Phencyclidine (PCP)
+756	Phencyclidine (PCP)
+757	Phencyclidine (PCP)
+758	Phencyclidine (PCP)
+759	Phencyclidine (PCP)
+760	Phencyclidine (PCP)
+761	Phencyclidine (PCP)
+762	Phencyclidine (PCP)
+763	Phencyclidine (PCP)
+764	Phencyclidine (PCP)
+765	Phencyclidine (PCP)
+766	Phencyclidine (PCP)
+767	Phencyclidine (PCP)
+768	Phencyclidine (PCP)
+769	Phencyclidine (PCP)
+770	Phencyclidine (PCP)
+771	Phencyclidine (PCP)
+772	Phencyclidine (PCP)
+773	Phencyclidine (PCP)
+774	Phencyclidine (PCP)
+775	Phencyclidine (PCP)
+776	Phencyclidine (PCP)
+777	Phencyclidine (PCP)
+778	Phencyclidine (PCP)
+779	Phencyclidine (PCP)
+780	Phencyclidine (PCP)
+781	Phencyclidine (PCP)
+782	Phencyclidine (PCP)
+783	Phencyclidine (PCP)
+784	Phencyclidine (PCP)
+785	Phencyclidine (PCP)
+786	Phencyclidine (PCP)
+787	Phencyclidine (PCP)
+788	Phencyclidine (PCP)
+789	Phencyclidine (PCP)
+790	Phencyclidine (PCP)
+791	Phencyclidine (PCP)
+792	Phencyclidine (PCP)
+793	Phencyclidine (PCP)
+794	Phencyclidine (PCP)
+795	Phencyclidine (PCP)
+800	Anabolic Steroid
+801	Anabolic Steroid
+802	Anabolic Steroid
+803	Anabolic Steroid
+804	Anabolic Steroid
+805	Anabolic Steroid
+806	Anabolic Steroid
+807	Anabolic Steroid
+808	Anabolic Steroid
+809	Anabolic Steroid
+810	Anabolic Steroid
+811	Anabolic Steroid
+812	Anabolic Steroid
+813	Anabolic Steroid
+814	Anabolic Steroid
+815	Anabolic Steroid
+816	Anabolic Steroid
+817	Anabolic Steroid
+818	Anabolic Steroid
+819	Anabolic Steroid
+820	Anabolic Steroid
+821	Anabolic Steroid
+822	Anabolic Steroid
+823	Anabolic Steroid
+824	Anabolic Steroid
+825	Anabolic Steroid
+826	Anabolic Steroid
+827	Anabolic Steroid
+828	Anabolic Steroid
+829	Anabolic Steroid
+830	Anabolic Steroid
+831	Anabolic Steroid
+832	Anabolic Steroid
+833	Anabolic Steroid
+834	Anabolic Steroid
+835	Anabolic Steroid
+836	Anabolic Steroid
+837	Anabolic Steroid
+838	Anabolic Steroid
+839	Anabolic Steroid
+840	Anabolic Steroid
+841	Anabolic Steroid
+842	Anabolic Steroid
+843	Anabolic Steroid
+844	Anabolic Steroid
+845	Anabolic Steroid
+846	Anabolic Steroid
+847	Anabolic Steroid
+848	Anabolic Steroid
+849	Anabolic Steroid
+850	Anabolic Steroid
+851	Anabolic Steroid
+852	Anabolic Steroid
+853	Anabolic Steroid
+854	Anabolic Steroid
+855	Anabolic Steroid
+856	Anabolic Steroid
+857	Anabolic Steroid
+858	Anabolic Steroid
+859	Anabolic Steroid
+860	Anabolic Steroid
+861	Anabolic Steroid
+862	Anabolic Steroid
+863	Anabolic Steroid
+864	Anabolic Steroid
+865	Anabolic Steroid
+866	Anabolic Steroid
+867	Anabolic Steroid
+868	Anabolic Steroid
+869	Anabolic Steroid
+870	Anabolic Steroid
+871	Anabolic Steroid
+872	Anabolic Steroid
+873	Anabolic Steroid
+874	Anabolic Steroid
+875	Anabolic Steroid
+876	Anabolic Steroid
+877	Anabolic Steroid
+878	Anabolic Steroid
+879	Anabolic Steroid
+880	Anabolic Steroid
+881	Anabolic Steroid
+882	Anabolic Steroid
+883	Anabolic Steroid
+884	Anabolic Steroid
+885	Anabolic Steroid
+886	Anabolic Steroid
+887	Anabolic Steroid
+888	Anabolic Steroid
+889	Anabolic Steroid
+890	Anabolic Steroid
+891	Anabolic Steroid
+892	Anabolic Steroid
+893	Anabolic Steroid
+894	Anabolic Steroid
+895	Anabolic Steroid
+900	Inhalant
+901	Inhalant
+902	Inhalant
+903	Inhalant
+904	Inhalant
+905	Inhalant
+906	Inhalant
+907	Inhalant
+908	Inhalant
+909	Inhalant
+910	Inhalant
+911	Inhalant
+912	Inhalant
+913	Inhalant
+914	Inhalant
+915	Inhalant
+916	Inhalant
+917	Inhalant
+918	Inhalant
+919	Inhalant
+920	Inhalant
+921	Inhalant
+922	Inhalant
+923	Inhalant
+924	Inhalant
+925	Inhalant
+926	Inhalant
+927	Inhalant
+928	Inhalant
+929	Inhalant
+930	Inhalant
+931	Inhalant
+932	Inhalant
+933	Inhalant
+934	Inhalant
+935	Inhalant
+936	Inhalant
+937	Inhalant
+938	Inhalant
+939	Inhalant
+940	Inhalant
+941	Inhalant
+942	Inhalant
+943	Inhalant
+944	Inhalant
+945	Inhalant
+946	Inhalant
+947	Inhalant
+948	Inhalant
+949	Inhalant
+950	Inhalant
+951	Inhalant
+952	Inhalant
+953	Inhalant
+954	Inhalant
+955	Inhalant
+956	Inhalant
+957	Inhalant
+958	Inhalant
+959	Inhalant
+960	Inhalant
+961	Inhalant
+962	Inhalant
+963	Inhalant
+964	Inhalant
+965	Inhalant
+966	Inhalant
+967	Inhalant
+968	Inhalant
+969	Inhalant
+970	Inhalant
+971	Inhalant
+972	Inhalant
+973	Inhalant
+974	Inhalant
+975	Inhalant
+976	Inhalant
+977	Inhalant
+978	Inhalant
+979	Inhalant
+980	Inhalant
+981	Inhalant
+982	Inhalant
+983	Inhalant
+984	Inhalant
+985	Inhalant
+986	Inhalant
+987	Inhalant
+988	Inhalant
+989	Inhalant
+990	Inhalant
+991	Inhalant
+992	Inhalant
+993	Inhalant
+994	Inhalant
+995	Inhalant
+996	Other Drugs
+997	Tested for Drugs, Results Unknown
+998	Tested for Drugs, Drugs Found, Type Unknown/Positive
+999	Unknown if Tested

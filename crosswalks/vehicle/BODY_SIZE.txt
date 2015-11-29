@@ -1,0 +1,69 @@
+"Convertible (Excludes Sunroof, T-Bar)"	Small
+2-Door Sedan/Hardtop/Coupe	Small
+3-Door/2-Door Hatchback	Small
+4-Door Sedan/Hardtop	Small
+5-Door/4-Door Hatchback	Small
+Station Wagon (Excluding Van and Truck-Based)	Medium
+"Hatchback, Number of Doors Unknown"	Small
+"Sedan/Hardtop, Number of Doors Unknown"	Small
+Other or Unknown Automobile Type	Other or Unknown
+Auto-Based Pickup	Medium
+"Auto-Based Panel (Cargo Station Wagon, Auto-Based Ambulance or Hearse)"	Medium
+Large Limousine - More Than Four Side Doors or Stretch Chassis	Medium
+Three-Wheel Automobile or Automobile Derivative	Small
+Compact Utility (ANSI D-16 Utility Vehicle Categories “Small” and “Midsize”)	Small
+Large Utility (ANSI D-16 Utility Vehicle Categories “Full Size” and “Large”)	Large
+Utility Station Wagon	Medium
+3-Door Coupe	Small
+Utility Unknown Body	Other or Unknown
+Minivan	Large
+Large Van - Includes Van-Based Buses	Large
+Step Van or Walk-In Van	Very large
+Other Van Type (Hi-Cube Van)	Very large
+Unknown Van Type	Large
+"Compact Pickup (Gross Vehicle Weight, GVWR, < 4,500 lbs)"	Large
+Standard Pickup	Large
+Pickup with Slide-In Camper	Very large
+Convertible Pickup	Large
+Unknown (Pickup Style) Light Conventional Truck Type	Very large
+"Cab Chassis-Based (Includes Light Stake, Light Dump, Light Tow, Rescue Vehicles)"	Large
+Truck-Based Panel	Large
+Light-Truck-Based Motorhome (Chassis Mounted)	Very large
+Other Light Conventional Truck Type (Includes Stretched Suburban Limousine)	Large
+Unknown Light Truck Type	Very large
+"Unknown Light-Vehicle Type (Automobile, Utility Vehicle, Van or Light Truck)"	Other or Unknown
+School Bus	Very large
+"Cross-Country/Intercity Bus (i.e., Greyhound)"	Very large
+Transit Bus (City Bus)	Very large
+"Van-Based Bus GVWR > 10,000 lbs."	Very large
+Other Bus Type	Very large
+Unknown Bus Type	Large
+Step Van	Large
+"Single-Unit Straight Truck or Cab-Chassis (10,000 lbs < GVWR <= 19,500 lbs)"	Very large
+"Single-Unit Straight Truck or Cab-Chassis (19,500 lbs < GVWR <= 26,000 lbs)"	Very large
+"Single-Unit Straight Truck or Cab-Chassis (GVWR > 26,000 lbs)"	Very large
+Single Unit Straight Truck or Cab-Chassis (GVWR Unknown)	Very large
+Medium/Heavy Truck-Based Motorhome	Very large
+"Truck/Tractor (Cab Only, or with Any Number of Trailing Units: Any Weight)"	Very large
+"Medium/Heavy Pickup (GVWR > 10,000 lbs)"	Large
+Single-Unit Straight Truck (GVWR Unknown)	Very large
+"Unknown if Single-Unit or Combination-Unit Medium Truck (10,000 lbs < GVWR < 26,000 lbs)"	Very large
+"Unknown if Single-Unit or Combination-Unit Heavy Truck (GVWR > 26,000 lbs.)"	Very large
+"Camper or Motorhome, Unknown Truck Type"	Very large
+Unknown Medium/Heavy Truck Type	Very large
+Unknown Truck Type	Very large
+Motorcycle	Small
+Moped (Motorized Bicycle)	Small
+Three-Wheel Motorcycle/Moped- Not All-Terrain Vehicle	Small
+Off-Road Motorcycle (2-Wheel)	Small
+"Other Motored Cycle Type (Mini-Bikes, Motor Scooters, Pocket Motorcycles, Pocket Bikes)"	Small
+Unknown Motored Cycle Type	Small
+ATV (All-Terrain Vehicle; Includes 3 or 4 Wheels)	Small
+Snowmobile	Small
+Farm Equipment Other Than Trucks	Large
+Construction Equipment Other Than Trucks (Includes Graders)	Large
+Low Speed Vehicle (LSV)/Neighborhood Electric Vehicle (NEV)	Small
+Golf Cart	Small
+"Other Vehicle Type (Includes Go-Cart, Fork-Lift, City Street Sweeper, Dune/Swamp Buggy)"	Other or Unknown
+Not Reported	Other or Unknown
+Unknown Body Type	Other or Unknown

@@ -1,0 +1,9 @@
+0	No Apparent Injury
+1	Possible Injury
+2	Suspected Minor Injury
+3	Suspected Serious Injury
+4	Fatal Injury
+5	"Injured, Severity Unknown"
+6	Died Prior to Crash
+8	Not Reported
+9	Unknown

@@ -1,0 +1,19 @@
+0	Not A Fatality (Not Applicable)
+1	White
+2	Black
+3	American Indian
+4	Chinese
+5	Japanese
+6	Hawaiian
+7	Filipino
+18	Asian Indian
+19	Other Indian
+28	Korean
+38	Samoan
+48	Vietnamese
+58	Guamanian
+68	Other Asian or Pacific Islander
+78	"Asian Or Pacific Islander, No Specific (Individual) Race"
+97	Multiple Races
+98	All Other Races
+99	Unknown

@@ -1,0 +1,15 @@
+1,Non-Junction
+2,Intersection
+3,Intersection Related
+4,Driveway Access
+5,Entrance/Exit Ramp Related
+6,Railway Grade Crossing
+7,Crossover Related
+8,Driveway Access Related
+16,Shared-Use Path or Trail
+17,Acceleration/Deceleration Lane
+18,Through Roadway
+19,Other Location Within Interchange Area
+20,Entrance/Exit Ramp
+98,Not Reported
+99,Unknown
